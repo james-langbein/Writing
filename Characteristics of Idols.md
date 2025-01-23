@@ -15,7 +15,7 @@ Idols have an intrinsic relationship to temples, altars, and sacrifices. While I
 The following is a list of the characteristics of idols, with a comparison to God's characteristics. I've provided the comparison as it is often easier to define something when we know what *it is not*, or what it is *the opposite of*. Below the list, I will go into a little more detail on each of them.
 
 ![Image](https://github.com/user-attachments/assets/a85331a9-2310-413e-b23c-a80e65fbc328)
-## Idol Characteristics In More Detail
+## Characteristics
 ### Created
 An idol can be anything other than God. It can be something created by God or man.
 ### Outside of us
