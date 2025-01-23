@@ -1,2 +1,2 @@
-# Writing
-For holding drafts in markdown format so others can review
+# Writing Review
+For holding drafts in rendered markdown so others can review.
